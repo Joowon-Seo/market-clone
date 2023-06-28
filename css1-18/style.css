@@ -4,6 +4,11 @@
 @import "main.css";
 /* css를 한번에 적용 */
 
+:root {
+  --button-primary: #fe6f0f;
+  --button-hovor: rgba(254, 111, 15, 0.8);
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
     "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI",
